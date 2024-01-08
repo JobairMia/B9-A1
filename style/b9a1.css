@@ -51,4 +51,13 @@ nav{
 .holiday+.catagories{
     gap: 0px;
 }
+
+.background2{
+    background-image: url(../B9A1-New-Year-New-Mission-main/resources/New\ Year\ Photo.png);
+    width: 802.9px;
+    height: 500px;
+    position: relative;
+    justify-content: center;
+    background-position: right;
+}
     
