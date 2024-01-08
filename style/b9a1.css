@@ -1,0 +1,54 @@
+
+.background{
+    background-image: url(../B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    position: relative;
+}
+nav{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.party{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+/* main section style */
+
+.discount{
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+}
+.holiday{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.catagories{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.middle{
+    padding: 10px;
+}
+.holiday+.catagories{
+    gap: 0px;
+}
+    
