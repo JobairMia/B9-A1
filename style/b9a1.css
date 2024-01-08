@@ -53,11 +53,26 @@ nav{
 }
 
 .background2{
+    text-align: center;
     background-image: url(../B9A1-New-Year-New-Mission-main/resources/New\ Year\ Photo.png);
     width: 802.9px;
     height: 500px;
     position: relative;
     justify-content: center;
     background-position: right;
+}
+.background3{
+    background-image: url(../B9A1-New-Year-New-Mission-main/resources/Vectorrr.png);
+    text-align: center;
+    width: 1320px;
+    height: 600px;
+    position: relative;
+    justify-content: center;
+    background-position: right;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
     
