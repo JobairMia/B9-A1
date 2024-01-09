@@ -84,6 +84,9 @@ nav{
     letter-spacing: 7.04px;
     text-align: center;
 }
+.group-70{
+    float: right;
+}
 .midnight-party-1{
     color: rgba(255, 255, 255, 0.80);
     font-family: Inter;
@@ -110,11 +113,12 @@ nav{
     width: 1320px;
     height: 482px;
     font-size: 32px;
-    font-style: normal;
+    box-sizing: border-box;
     font-weight: 600;
     line-height: 56px;
     text-transform: capitalize;
     text-align: center;
+    position: relative;
 }
 .btn-primary{
     background: #F00;
@@ -125,6 +129,8 @@ nav{
     font-size: 20px;
     font-weight: 700;
     text-transform: uppercase;
+    position: relative;
+    box-sizing: border-box;
 }
 .comming{
     color: #070211;
@@ -146,8 +152,33 @@ nav{
     padding: 40px;
     text-align: justify;
     background: #FFF;
-    width: 1600px;
-    height: 7335px;
-    ;
-    
+    width: 1320px;
+    height: 482px
  }
+ .ecllise-2{
+  box-sizing: border-box;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 15px;
+  width: 463px;
+  height: 463px;
+  position: relative;
+}
+.email-1{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    overflow: visible;
+    box-sizing: border-box;
+    fill: none;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    width: 1320px;
+    height: 616px;
+    position: relative;
+    box-sizing: border-box;
+}
+.M2024{
+    display: flex;
+}
